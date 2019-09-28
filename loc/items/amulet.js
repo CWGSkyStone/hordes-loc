@@ -23,6 +23,7 @@ export default [
       ko: '타 버린 성분들이 꼬여서 묶여서 약한 보호 장치가되었습니다. 이와 같은 단순한 부적을 만드는 것은 고대부터 일반적인 생존 전술이었습니다.',
       ro: 'Ingrediente arse au fost răsucite și îmbinate împreună pentru a forma o amuletă de protecție slabă. Crearea unor amulete simple ca aceasta a fost o tactică comună de supraviețuire încă din antichitate.',
       tr: 'Yakılan malzemeler bu az korumaya sahip muskayı oluşturmak için büküldü ve bir araya getirildi. Bunun gibi basit muskalar yapmak çok eski zamanlardan beri alışılagelmiş bir hayatta kalma taktiğidir.'
+      hu: 'Perzselt összetevők csavarva és összekötözve együtt alkotnak egy gyenge védelem amulettjét. Ilyen egyszerű amulettek készítése általános túlélési taktika volt az ősi idők óta.',
     }
   },
 
